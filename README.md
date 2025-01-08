@@ -29,7 +29,7 @@ Several machine learning models were evaluated for spam classification. Among th
 
 ### Results
 
-The SVC model achieved an accuracy of [insert accuracy value] in classifying SMS messages as spam or non-spam. Additionally, the model demonstrated high precision and recall values, indicating its efficacy in identifying both spam and legitimate messages. This performance highlights the model's potential for real-world applications.
+The SVC model achieved an accuracy of in classifying SMS messages as spam or non-spam. Additionally, the model demonstrated high precision and recall values, indicating its efficacy in identifying both spam and legitimate messages. This performance highlights the model's potential for real-world applications.
 
 ### Future Work
 
